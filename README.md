@@ -1,3 +1,6 @@
+Author : @jaumerg
+
+
 foundation-BLOC
 ===============
 
